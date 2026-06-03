@@ -1,0 +1,16 @@
+# Credentials and Secrets
+.env
+.streamlit/
+
+# Databases and Local State
+chroma_db/
+
+# Python Build Artefacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local test outputs and logs
+*.log
+sample_docs/
