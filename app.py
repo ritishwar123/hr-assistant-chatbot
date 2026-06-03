@@ -307,7 +307,7 @@ with st.sidebar:
 
 
 # 6. Main Chat Area
-st.markdown("<div class='gradient-title'>Antigravity HR Assistant</div>", unsafe_allow_html=True)
+st.markdown("<div class='gradient-title'>HR Assistant</div>", unsafe_allow_html=True)
 st.markdown("<div class='subtitle'>Corporate RAG Bot - Accurate, Grounded, Secure HR Guidance</div>", unsafe_allow_html=True)
 
 # 7. Render Chat History in custom styled containers
