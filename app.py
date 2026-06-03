@@ -16,7 +16,7 @@ from rag_engine import (
 
 # 1. Set Page Configuration with modern title and icon
 st.set_page_config(
-    page_title="Antigravity HR Assistant",
+    page_title="HR Assistant",
     page_icon="💼",
     layout="wide",
     initial_sidebar_state="expanded"
